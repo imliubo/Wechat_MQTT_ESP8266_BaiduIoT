@@ -18,9 +18,9 @@ Page({
   data: {
     client: null,
     topic: {
-      LEDcontrolTopic: '/esp8266_test/LEDcontrol',
-      HumdTopic: '/esp8266_test/humd',
-      TempTopic: '/esp8266_test/temp',
+      LEDcontrolTopic: '/zhihu_esp8266/LEDcontrol',
+      HumdTopic: '/zhihu_esp8266/humd',
+      TempTopic: '/zhihu_esp8266/temp',
     },
     value: {
       Humdlogo: './../images/humd.png',
