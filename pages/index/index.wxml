@@ -1,0 +1,40 @@
+<!--index.wxml-->
+<!-- /*  
+                   _     _                 __                                    
+                  | |   (_)               / _|                                   
+ _ __ ___    __ _ | | __ _  _ __    __ _ | |_  _   _  _ __     __  __ _   _  ____
+| '_ ` _ \  / _` || |/ /| || '_ \  / _` ||  _|| | | || '_ \    \ \/ /| | | ||_  /
+| | | | | || (_| ||   < | || | | || (_| || |  | |_| || | | | _  >  < | |_| | / / 
+|_| |_| |_| \__,_||_|\_\|_||_| |_| \__, ||_|   \__,_||_| |_|(_)/_/\_\ \__, |/___|
+                                    __/ |                              __/ |     
+                                   |___/                              |___/      
+*/ -->
+<view class="container">
+  <view>
+  <text>微信智能小管家</text>
+  </view>
+  <view class='humdTemp-container'>
+    <image src="{{value.Humdlogo}}" class='humd-logo'></image>
+    <image src="{{value.Templogo}}" class='temp-logo'></image>
+  </view>
+  <view>
+    <text class='humd-motto'>湿度：{{value.HumdValue}}%</text>
+    <text>温度：{{value.TempValue}}°</text>
+  </view>
+  <view class='led-container'>
+    <image src="{{LEDValue[0].LEDlogo}}" class='led-logo'></image>
+  </view>
+
+  <view>
+    <button type="defaule" size="mini" bindtap="LedControl">{{LEDValue[0].ButtonValue}}</button>
+  </view>
+  <view>
+    <image src='./../images/devil.png' class='logo'></image>
+  </view>
+  <view>
+  <text>知乎专栏：IAMLIUBO的神奇物联网之旅</text>
+  </view>
+  <view>
+    <text>© 2019 imliubo</text>
+  </view>
+</view>

@@ -1,0 +1,43 @@
+/**index.wxss**/
+
+.led-logo {
+  width: 60px;
+  height: 64px;
+  margin-top: 10px;
+}
+
+.humd-logo{
+  width: 64px;
+  height: 64px;
+  margin-right: 100px;
+}
+
+.humd-motto{
+  margin-right: 80px;
+}
+
+.temp-logo{
+  width: 64px;
+  height: 64px;
+}
+
+.sun-logo{
+  width: 64px;
+  height: 64px;
+  margin-top: 30px;
+}
+
+.humdTemp-container{
+  margin-top: 30px;
+}
+
+.led-container{
+  margin-top: 20px;
+}
+
+
+.logo{
+  width: 100px;
+  height: 100px;
+  margin-top: 10px;
+}

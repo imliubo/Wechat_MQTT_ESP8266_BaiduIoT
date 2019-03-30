@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "mqtt": "git+https://github.com/mqttjs/MQTT.js.git"
+  }
+}
