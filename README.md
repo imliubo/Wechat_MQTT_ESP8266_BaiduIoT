@@ -1,6 +1,6 @@
 <div align="center">
 	<h1>微信智能小管家</h1>
-  <img src="https://makingfun.oss-cn-qingdao.aliyuncs.com/Github/Wechat_MQTT_ESP8266_BaiduIoT/index.png" alt="Wechat mini program">
+  <img src="https://makingfun.oss-cn-qingdao.aliyuncs.com/Github/Wechat_MQTT_ESP8266_BaiduIoT/index.png" alt="Wechat mini program" width="280" height="497">
 </div>
 
 ## Wechat MQTT ESP8266 Baidu IoT
