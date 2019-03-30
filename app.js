@@ -11,13 +11,13 @@
 //app.js
 import mqtt from './utils/mqtt.js';
 
-const host = 'wxs://k0en8zk.mqtt.iot.bj.baidubce.com/mqtt';
+const host = 'wxs://1v1r5ep.mqtt.iot.bj.baidubce.com/mqtt';
 const options = {
   protocolVersion: 4, //MQTT连接协议版本
   clientId: randomString(10),
   clean: true,
-  username: 'k0en8zk/wechat_mini_program',
-  password: 'izO4TmSc3u1YAKIW',
+  username: '1v1r5ep/zhihu_iamliubo',
+  password: 'tNVKODyl2chbm5yp',
   reconnectPeriod: 1000,
   connectTimeout: 30 * 1000,
   resubscribe: true

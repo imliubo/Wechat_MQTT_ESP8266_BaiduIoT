@@ -31,7 +31,7 @@
   <view>
     <image src='./../images/devil.png' class='logo'></image>
   </view>
-  <view>
+  <view class='bottom-text'>
   <text>知乎专栏：IAMLIUBO的神奇物联网之旅</text>
   </view>
   <view>

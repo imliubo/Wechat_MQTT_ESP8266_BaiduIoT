@@ -39,5 +39,9 @@
 .logo{
   width: 100px;
   height: 100px;
-  margin-top: 10px;
+  margin-top: 80px;
+}
+
+.bottom-text{
+  margin-top: 70px;
 }

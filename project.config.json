@@ -4,7 +4,7 @@
 		"ignore": []
 	},
 	"setting": {
-		"urlCheck": true,
+		"urlCheck": false,
 		"es6": true,
 		"postcss": true,
 		"minified": true,
@@ -14,7 +14,7 @@
 	},
 	"compileType": "miniprogram",
 	"libVersion": "2.6.4",
-	"appid": "wx9e73a117116450e5",
+	"appid": "XXXXXXXXXXXXXX",
 	"projectname": "wechat_esp8266_baidu_iot",
 	"debugOptions": {
 		"hidedInDevtools": []
