@@ -13,6 +13,7 @@
 
 设备端代码：
 官方SDK版本：[Wechat_MQTT_BaiduIoT](https://github.com/imliubo/makingfunxyz-esp8266/tree/master/makingfunxyz-esp8266-NONOS/14.Wechat_MQTT_BaiduIoT)
+
 Arduino版本：待补充。
 
 PS：使用我的百度天工账号体验，一定要记得勾选**不校验合法域名、web-view（业务域名）、TLS 版本以及 HTTPS 证书**，如果不勾选是没法连接百度天工MQTT服务器的。
@@ -24,3 +25,6 @@ PS：使用我的百度天工账号体验，一定要记得勾选**不校验合�
   	<h3>修改需要订阅的主题</h3>
   <img src="https://makingfun.oss-cn-qingdao.aliyuncs.com/Github/Wechat_MQTT_ESP8266_BaiduIoT/topic-setting.png" alt="Wechat mini program">
 </div>
+
+Thankful:
+微信小程序MQTT架构-[爱吃猫粮的鱼](https://github.com/tennessine/miniprogram-mqtt5)
