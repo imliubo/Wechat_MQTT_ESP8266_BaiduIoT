@@ -12,6 +12,7 @@
 请依次修改图片中标注的地方，如果还没有注册百度天工账号，可以先用这个账号体验，不确保可以使用多长时间，但是微信小程序的Appid一定要换成你自己的，因为不替换没法使用，页面布局可以根据你的需要自己修改，请忽略我的渣布局~
 
 设备端代码：
+
 官方SDK版本：[Wechat_MQTT_BaiduIoT](https://github.com/imliubo/makingfunxyz-esp8266/tree/master/makingfunxyz-esp8266-NONOS/14.Wechat_MQTT_BaiduIoT)
 
 Arduino版本：待补充。
@@ -26,5 +27,6 @@ PS：使用我的百度天工账号体验，一定要记得勾选**不校验合�
   <img src="https://makingfun.oss-cn-qingdao.aliyuncs.com/Github/Wechat_MQTT_ESP8266_BaiduIoT/topic-setting.png" alt="Wechat mini program">
 </div>
 
-Thankful:
+## Thankful:
+
 微信小程序MQTT架构-[爱吃猫粮的鱼](https://github.com/tennessine/miniprogram-mqtt5)
